@@ -11,3 +11,11 @@
 [Debug 17:56:34.215] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 1
 [Trace 17:56:38.268] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
 [Trace 17:56:38.268] VsCodeClientWorkspace: deleteDocument: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 18:51:18.960] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/ec2-user/.vscode-server/data/User/History/-7d3b96b0/NgC5
+[Trace 18:51:18.960] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/.vscode-server/data/User/History/-7d3b96b0/NgC5
+[Trace 18:51:18.960] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/.vscode-server/data/User/History/-7d3b96b0/NgC5 1
+[Debug 18:51:18.961] LinkProvider: compute - file:///home/ec2-user/.vscode-server/data/User/History/-7d3b96b0/NgC5
+[Trace 18:51:18.961] Server: connection.languages.diagnostics.on: file:///home/ec2-user/.vscode-server/data/User/History/-7d3b96b0/NgC5
+[Debug 18:51:18.967] TableOfContentsProvider: create - file:///home/ec2-user/.vscode-server/data/User/History/-7d3b96b0/NgC5
+[Trace 18:51:21.678] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/ec2-user/.vscode-server/data/User/History/-7d3b96b0/NgC5
+[Trace 18:51:21.678] VsCodeClientWorkspace: deleteDocument: file:///home/ec2-user/.vscode-server/data/User/History/-7d3b96b0/NgC5
