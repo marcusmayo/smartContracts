@@ -1,0 +1,15 @@
+new commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   .vscode-server/data/User/History/-7d3b96b0/entries.json
+#	new file:   .vscode-server/data/User/History/-7d3b96b0/xadw
+#	modified:   .vscode-server/data/logs/20230209T174302/exthost3/output_logging_20230209T174410/3-JSON Language Server.log
+#	modified:   .vscode-server/data/logs/20230209T174302/exthost3/vscode.git/Git.log
+#
+# Changes not staged for commit:
+#	modified:   .vscode-server/data/logs/20230209T174302/exthost3/vscode.git/Git.log
+#	modified:   golang/src/github.com/hyperledger/fabric-samples (modified content)
+#
