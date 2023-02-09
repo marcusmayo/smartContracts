@@ -198,3 +198,27 @@ To https://github.com/marcusmayo/smartContracts.git
 2023-02-09 18:47:13.440 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
 2023-02-09 18:47:13.454 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
 2023-02-09 18:47:13.670 [info] > git status -z -uall [225ms]
+2023-02-09 18:47:24.519 [info] > git add -A -- . [208ms]
+2023-02-09 18:47:25.306 [info] > git show --textconv :.git/COMMIT_EDITMSG [10ms]
+2023-02-09 18:47:25.313 [info] > git ls-files --stage -- /home/ec2-user/.git/COMMIT_EDITMSG [11ms]
+2023-02-09 18:47:43.914 [info] > git -c user.useConfigOnly=true commit --quiet [19389ms]
+2023-02-09 18:47:43.925 [info] > git config --get commit.template [5ms]
+2023-02-09 18:47:43.926 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-02-09 18:47:43.938 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-02-09 18:47:44.152 [info] > git status -z -uall [221ms]
+2023-02-09 18:47:45.293 [info] > git check-ignore -v -z --stdin [10ms]
+2023-02-09 18:47:49.350 [info] > git log --oneline --cherry master...master@{upstream} -- [2ms]
+2023-02-09 18:47:49.557 [info] > git pull --tags marcusmayo/smartContracts master [200ms]
+2023-02-09 18:47:49.557 [info] From https://github.com/marcusmayo/smartContracts
+ * branch              master     -> FETCH_HEAD
+2023-02-09 18:47:50.537 [info] > git push marcusmayo/smartContracts master:master [975ms]
+2023-02-09 18:47:50.537 [info] To https://github.com/marcusmayo/smartContracts.git
+   5f2ced16..6948ce03  master -> master
+2023-02-09 18:47:50.550 [info] > git config --get commit.template [5ms]
+2023-02-09 18:47:50.550 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-02-09 18:47:50.566 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-09 18:47:50.786 [info] > git status -z -uall [231ms]
+2023-02-09 18:47:51.021 [info] > git config --get commit.template [6ms]
+2023-02-09 18:47:51.022 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-02-09 18:47:51.035 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-09 18:47:51.250 [info] > git status -z -uall [223ms]
