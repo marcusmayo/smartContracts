@@ -163,3 +163,38 @@
 2023-02-09 18:46:27.246 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
 2023-02-09 18:46:27.259 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
 2023-02-09 18:46:27.471 [info] > git status -z -uall [220ms]
+2023-02-09 18:46:42.286 [info] > git add -A -- . [209ms]
+2023-02-09 18:46:43.371 [info] > git show --textconv :.git/COMMIT_EDITMSG [9ms]
+2023-02-09 18:46:43.378 [info] > git ls-files --stage -- /home/ec2-user/.git/COMMIT_EDITMSG [12ms]
+2023-02-09 18:46:54.146 [info] > git -c user.useConfigOnly=true commit --quiet [11855ms]
+2023-02-09 18:46:54.158 [info] > git config --get commit.template [5ms]
+2023-02-09 18:46:54.158 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-02-09 18:46:54.170 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-09 18:46:54.383 [info] > git status -z -uall [220ms]
+2023-02-09 18:46:54.400 [info] > git push [3ms]
+2023-02-09 18:46:54.400 [info] fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream marcusmayo/smartContracts master
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+2023-02-09 18:46:54.410 [info] > git config --get commit.template [5ms]
+2023-02-09 18:46:54.411 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-02-09 18:46:54.423 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-09 18:46:54.632 [info] > git status -z -uall [217ms]
+2023-02-09 18:46:55.606 [info] > git check-ignore -v -z --stdin [10ms]
+2023-02-09 18:47:12.865 [info] > git push -u marcusmayo/smartContracts master [11747ms]
+2023-02-09 18:47:12.865 [info] remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File .vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/node is 76.60 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/marcusmayo/smartContracts.git
+ * [new branch]        master -> master
+2023-02-09 18:47:12.876 [info] > git config --get commit.template [5ms]
+2023-02-09 18:47:12.877 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-02-09 18:47:12.889 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-09 18:47:13.103 [info] > git status -z -uall [222ms]
+2023-02-09 18:47:13.440 [info] > git config --get commit.template [5ms]
+2023-02-09 18:47:13.440 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-02-09 18:47:13.454 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-02-09 18:47:13.670 [info] > git status -z -uall [225ms]
