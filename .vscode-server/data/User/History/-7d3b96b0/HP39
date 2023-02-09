@@ -1,0 +1,14 @@
+commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is ahead of 'marcusmayo/smartContracts/master' by 4 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   .vscode-server/data/User/History/-7d3b96b0/2Yks
+#
+# Changes not staged for commit:
+#	modified:   golang/src/github.com/hyperledger/fabric-samples (modified content)
+#
