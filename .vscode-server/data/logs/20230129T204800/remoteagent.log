@@ -1,0 +1,39 @@
+2023-01-29 20:48:00.263 [info] Extension host agent started.
+2023-01-29 20:48:00.315 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+2023-01-29 20:48:00.361 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+2023-01-29 20:48:00.578 [info] [127.0.0.1][220e2983][ManagementConnection] New connection established.
+2023-01-29 20:48:00.708 [info] [127.0.0.1][5e1a8cbd][ExtensionHostConnection] New connection established.
+2023-01-29 20:48:00.713 [info] [127.0.0.1][5e1a8cbd][ExtensionHostConnection] <4773> Launched Extension Host Process.
+2023-01-29 20:48:32.323 [info] [127.0.0.1][220e2983][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-29 20:48:32.345 [info] [127.0.0.1][5e1a8cbd][ExtensionHostConnection] <4773> Extension Host Process exited with code: 0, signal: null.
+2023-01-29 20:48:32.345 [info] Last EH closed, waiting before shutting down
+2023-01-29 20:48:37.645 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-01-29 20:48:37.645 [info] Cancelling previous shutdown timeout
+2023-01-29 20:48:38.097 [info] [127.0.0.1][fe7915c2][ManagementConnection] New connection established.
+2023-01-29 20:48:38.260 [info] [127.0.0.1][a968d02a][ExtensionHostConnection] New connection established.
+2023-01-29 20:48:38.267 [info] [127.0.0.1][a968d02a][ExtensionHostConnection] <5070> Launched Extension Host Process.
+2023-01-29 20:48:46.071 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/ec2-user)
+2023-01-29 20:53:37.646 [info] New EH opened, aborting shutdown
+2023-01-29 21:00:07.035 [info] [127.0.0.1][fe7915c2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-29 21:00:07.053 [info] [127.0.0.1][a968d02a][ExtensionHostConnection] <5070> Extension Host Process exited with code: 0, signal: null.
+2023-01-29 21:00:07.053 [info] Last EH closed, waiting before shutting down
+2023-01-29 21:00:21.561 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-01-29 21:00:21.562 [info] Cancelling previous shutdown timeout
+2023-01-29 21:00:22.042 [info] [127.0.0.1][9cfc6223][ManagementConnection] New connection established.
+2023-01-29 21:00:22.209 [info] [127.0.0.1][1eea925e][ExtensionHostConnection] New connection established.
+2023-01-29 21:00:22.214 [info] [127.0.0.1][1eea925e][ExtensionHostConnection] <5504> Launched Extension Host Process.
+2023-01-29 21:00:43.970 [info] [127.0.0.1][9cfc6223][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-29 21:00:43.985 [info] [127.0.0.1][1eea925e][ExtensionHostConnection] <5504> Extension Host Process exited with code: 0, signal: null.
+2023-01-29 21:00:43.985 [info] Cancelling previous shutdown timeout
+2023-01-29 21:00:43.986 [info] Last EH closed, waiting before shutting down
+2023-01-29 21:00:48.738 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-01-29 21:00:48.738 [info] Cancelling previous shutdown timeout
+2023-01-29 21:00:49.323 [info] [127.0.0.1][b469f922][ManagementConnection] New connection established.
+2023-01-29 21:00:49.433 [info] [127.0.0.1][8f6084c5][ExtensionHostConnection] New connection established.
+2023-01-29 21:00:49.449 [info] [127.0.0.1][8f6084c5][ExtensionHostConnection] <5804> Launched Extension Host Process.
+2023-01-29 21:00:50.365 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/ec2-user)
+2023-01-29 21:02:16.799 [info] [127.0.0.1][b469f922][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-29 21:02:16.812 [info] [127.0.0.1][8f6084c5][ExtensionHostConnection] <5804> Extension Host Process exited with code: 0, signal: null.
+2023-01-29 21:02:16.812 [info] Cancelling previous shutdown timeout
+2023-01-29 21:02:16.812 [info] Last EH closed, waiting before shutting down
+2023-01-29 21:07:16.813 [info] Last EH closed, shutting down

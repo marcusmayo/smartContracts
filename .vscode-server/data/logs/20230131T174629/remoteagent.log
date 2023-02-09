@@ -1,0 +1,53 @@
+2023-01-31 17:46:29.085 [info] Extension host agent started.
+2023-01-31 17:46:29.357 [info] [127.0.0.1][8a0c5015][ManagementConnection] New connection established.
+2023-01-31 17:46:29.558 [info] [127.0.0.1][9dbaf3b3][ExtensionHostConnection] New connection established.
+2023-01-31 17:46:29.587 [info] [127.0.0.1][9dbaf3b3][ExtensionHostConnection] <27155> Launched Extension Host Process.
+2023-01-31 17:46:44.977 [info] [127.0.0.1][8a0c5015][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-31 17:46:44.992 [info] [127.0.0.1][9dbaf3b3][ExtensionHostConnection] <27155> Extension Host Process exited with code: 0, signal: null.
+2023-01-31 17:46:44.992 [info] Last EH closed, waiting before shutting down
+2023-01-31 17:46:49.635 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-01-31 17:46:49.635 [info] Cancelling previous shutdown timeout
+2023-01-31 17:46:50.181 [info] [127.0.0.1][5875d309][ManagementConnection] New connection established.
+2023-01-31 17:46:50.326 [info] [127.0.0.1][2b3f82d7][ExtensionHostConnection] New connection established.
+2023-01-31 17:46:50.332 [info] [127.0.0.1][2b3f82d7][ExtensionHostConnection] <27469> Launched Extension Host Process.
+2023-01-31 17:46:51.250 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/ec2-user)
+2023-01-31 17:50:09.418 [info] [127.0.0.1][5875d309][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-31 17:50:09.440 [info] [127.0.0.1][2b3f82d7][ExtensionHostConnection] <27469> Extension Host Process exited with code: 0, signal: null.
+2023-01-31 17:50:09.440 [info] Cancelling previous shutdown timeout
+2023-01-31 17:50:09.440 [info] Last EH closed, waiting before shutting down
+2023-01-31 17:50:14.474 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-01-31 17:50:14.474 [info] Cancelling previous shutdown timeout
+2023-01-31 17:50:15.014 [info] [127.0.0.1][374332c4][ManagementConnection] New connection established.
+2023-01-31 17:50:15.106 [info] [127.0.0.1][23bff5c4][ExtensionHostConnection] New connection established.
+2023-01-31 17:50:15.113 [info] [127.0.0.1][23bff5c4][ExtensionHostConnection] <28062> Launched Extension Host Process.
+2023-01-31 17:50:20.360 [info] [127.0.0.1][374332c4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-31 17:50:20.378 [info] [127.0.0.1][23bff5c4][ExtensionHostConnection] <28062> Extension Host Process exited with code: 0, signal: null.
+2023-01-31 17:50:20.378 [info] Cancelling previous shutdown timeout
+2023-01-31 17:50:20.378 [info] Last EH closed, waiting before shutting down
+2023-01-31 17:51:49.266 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-01-31 17:51:49.266 [info] Cancelling previous shutdown timeout
+2023-01-31 17:51:49.874 [info] [127.0.0.1][4b478c5c][ManagementConnection] New connection established.
+2023-01-31 17:51:49.920 [info] [127.0.0.1][96a8c557][ExtensionHostConnection] New connection established.
+2023-01-31 17:51:49.927 [info] [127.0.0.1][96a8c557][ExtensionHostConnection] <28487> Launched Extension Host Process.
+2023-01-31 17:52:01.100 [info] [127.0.0.1][4b478c5c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-31 17:52:01.120 [info] [127.0.0.1][96a8c557][ExtensionHostConnection] <28487> Extension Host Process exited with code: 0, signal: null.
+2023-01-31 17:52:01.120 [info] Cancelling previous shutdown timeout
+2023-01-31 17:52:01.120 [info] Last EH closed, waiting before shutting down
+2023-01-31 17:52:05.481 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-01-31 17:52:05.481 [info] Cancelling previous shutdown timeout
+2023-01-31 17:52:05.907 [info] [127.0.0.1][089d3db6][ManagementConnection] New connection established.
+2023-01-31 17:52:06.078 [info] [127.0.0.1][0c50ee44][ExtensionHostConnection] New connection established.
+2023-01-31 17:52:06.085 [info] [127.0.0.1][0c50ee44][ExtensionHostConnection] <28797> Launched Extension Host Process.
+2023-01-31 17:52:07.013 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/ec2-user)
+2023-01-31 17:57:05.483 [info] New EH opened, aborting shutdown
+2023-01-31 18:18:13.536 [info] [127.0.0.1][089d3db6][ManagementConnection] The client has reconnected.
+2023-01-31 18:18:13.704 [info] [127.0.0.1][0c50ee44][ExtensionHostConnection] The client has reconnected.
+2023-01-31 18:31:29.469 [info] [127.0.0.1][089d3db6][ManagementConnection] The client has reconnected.
+2023-01-31 18:32:00.974 [info] [127.0.0.1][0c50ee44][ExtensionHostConnection] The client has reconnected.
+2023-01-31 18:32:05.870 [info] [127.0.0.1][0c50ee44][ExtensionHostConnection] The client has reconnected.
+2023-01-31 18:32:08.212 [info] [127.0.0.1][089d3db6][ManagementConnection] The client has reconnected.
+2023-01-31 18:32:10.014 [info] [127.0.0.1][0c50ee44][ExtensionHostConnection] The client has reconnected.
+2023-01-31 19:32:31.765 [info] [127.0.0.1][089d3db6][ManagementConnection] The client has reconnected.
+2023-01-31 19:37:32.031 [info] [127.0.0.1][0c50ee44][ExtensionHostConnection] <28797> Extension Host Process exited with code: 0, signal: null.
+2023-01-31 19:37:32.031 [info] Last EH closed, waiting before shutting down
+2023-01-31 19:42:32.032 [info] Last EH closed, shutting down

@@ -1,0 +1,13 @@
+2023-02-01 23:59:45.960 [info] Extension host agent started.
+2023-02-01 23:59:46.310 [error] [127.0.0.1][585adf70][ManagementConnection] Unknown reconnection token (never seen).
+2023-02-01 23:59:46.495 [error] [127.0.0.1][719e19f5][ExtensionHostConnection] Unknown reconnection token (never seen).
+2023-02-02 00:00:12.417 [info] [127.0.0.1][b237b785][ManagementConnection] New connection established.
+2023-02-02 00:00:12.511 [info] [127.0.0.1][98c2f4d2][ExtensionHostConnection] New connection established.
+2023-02-02 00:00:12.516 [info] [127.0.0.1][98c2f4d2][ExtensionHostConnection] <6742> Launched Extension Host Process.
+2023-02-02 00:00:13.442 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/ec2-user)
+2023-02-02 00:52:17.932 [info] [127.0.0.1][98c2f4d2][ExtensionHostConnection] The client has reconnected.
+2023-02-02 00:52:21.220 [info] [127.0.0.1][b237b785][ManagementConnection] The client has reconnected.
+2023-02-02 00:52:22.065 [info] [127.0.0.1][98c2f4d2][ExtensionHostConnection] The client has reconnected.
+2023-02-02 01:15:57.160 [info] [127.0.0.1][b237b785][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-02-02 01:15:57.220 [info] [127.0.0.1][98c2f4d2][ExtensionHostConnection] <6742> Extension Host Process exited with code: 0, signal: null.
+2023-02-02 01:15:57.220 [info] Last EH closed, waiting before shutting down

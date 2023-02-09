@@ -1,0 +1,13 @@
+[Trace 17:44:11.984] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 17:44:11.991] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 17:44:11.993] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 17:44:11.998] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 17:44:12.283] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 1
+[Debug 17:44:12.284] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 17:44:12.616] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 1
+[Debug 17:44:12.617] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 17:44:42.934] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 17:56:33.733] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 17:56:34.215] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 1
+[Trace 17:56:38.268] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 17:56:38.268] VsCodeClientWorkspace: deleteDocument: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md

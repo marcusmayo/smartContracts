@@ -1,0 +1,274 @@
+2023-01-31 17:52:09.005 [info] Log level: Info
+2023-01-31 17:52:09.005 [info] Validating found git in: "git"
+2023-01-31 17:52:09.005 [info] Using git "2.38.1" from "git"
+2023-01-31 17:52:09.005 [info] > git rev-parse --show-toplevel [6ms]
+2023-01-31 17:52:09.005 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:52:09.005 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-31 17:52:09.005 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:52:09.005 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-31 17:52:09.005 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:52:09.005 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-31 17:52:09.005 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:52:09.005 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-31 17:52:09.005 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:52:09.005 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-31 17:52:09.005 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-01-31 17:52:09.005 [info] Open repository: /home/ec2-user/.nvm
+2023-01-31 17:52:09.006 [info] > git rev-parse --show-toplevel [25ms]
+2023-01-31 17:52:09.006 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:52:09.006 [info] > git rev-parse --show-toplevel [18ms]
+2023-01-31 17:52:09.006 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:52:09.006 [info] > git config --get commit.template [54ms]
+2023-01-31 17:52:09.006 [info] > git rev-parse --show-toplevel [12ms]
+2023-01-31 17:52:09.006 [info] > git rev-parse --git-dir --git-common-dir [12ms]
+2023-01-31 17:52:09.006 [info] Open repository: /home/ec2-user/eattheblocks
+2023-01-31 17:52:09.006 [info] > git status -z -uall [20ms]
+2023-01-31 17:52:09.006 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2023-01-31 17:52:09.006 [info] > git config --get commit.template [2ms]
+2023-01-31 17:52:09.006 [info] > git rev-parse --show-toplevel [7ms]
+2023-01-31 17:52:09.006 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:52:09.006 [info] > git config --get commit.template [12ms]
+2023-01-31 17:52:09.006 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+2023-01-31 17:52:09.006 [info] > git status -z -uall [28ms]
+2023-01-31 17:52:09.006 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2023-01-31 17:52:09.006 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2023-01-31 17:52:09.006 [info] > git status -z -uall [65ms]
+2023-01-31 17:52:09.006 [info] > git config --get commit.template [67ms]
+2023-01-31 17:52:09.006 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-01-31 17:52:09.006 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+2023-01-31 17:52:09.006 [info] > git status -z -uall [44ms]
+2023-01-31 17:52:09.006 [info] > git rev-parse --show-toplevel [3ms]
+2023-01-31 17:52:09.006 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:52:09.006 [info] > git rev-parse --show-toplevel [5ms]
+2023-01-31 17:52:09.006 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:52:10.448 [info] > git check-ignore -v -z --stdin [6ms]
+2023-01-31 17:52:10.450 [info] > git check-ignore -v -z --stdin [3ms]
+2023-01-31 17:57:39.642 [info] > git check-ignore -v -z --stdin [7ms]
+2023-01-31 17:57:43.871 [info] > git check-ignore -v -z --stdin [5ms]
+2023-01-31 17:57:45.964 [info] > git check-ignore -v -z --stdin [3ms]
+2023-01-31 17:57:47.593 [info] > git check-ignore -v -z --stdin [4ms]
+2023-01-31 17:57:53.011 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-31 17:57:53.011 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:57:53.028 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-31 17:57:53.028 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:58:00.164 [info] > git -c user.useConfigOnly=true commit --quiet [15ms]
+2023-01-31 17:58:00.164 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2023-01-31 17:58:00.170 [info] > git config --get-all user.name [1ms]
+2023-01-31 17:59:31.253 [info] > git show --textconv :.git/COMMIT_EDITMSG [5ms]
+2023-01-31 17:59:31.255 [info] > git ls-files --stage -- /home/ec2-user/eattheblocks/.git/COMMIT_EDITMSG [2ms]
+2023-01-31 17:59:31.652 [info] > git check-ignore -v -z --stdin [4ms]
+2023-01-31 18:00:49.162 [info] > git push -u origin [4ms]
+2023-01-31 18:00:49.162 [info] fatal: You are not currently on a branch.
+To push the history leading to the current (detached HEAD)
+state now, use
+
+    git push origin HEAD:<name-of-remote-branch>
+2023-01-31 18:01:12.310 [info] > git check-ignore -v -z --stdin [6ms]
+2023-01-31 18:01:32.907 [info] > git log --oneline --cherry master...master@{upstream} -- [2ms]
+2023-01-31 18:01:33.154 [info] > git pull --tags origin master [243ms]
+2023-01-31 18:01:33.154 [info] From https://github.com/jklepatch/eattheblocks
+ * branch            master     -> FETCH_HEAD
+2023-01-31 18:01:33.164 [info] > git config --get commit.template [5ms]
+2023-01-31 18:01:33.165 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-01-31 18:01:33.181 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2023-01-31 18:01:33.213 [info] > git status -z -uall [45ms]
+2023-01-31 18:02:24.404 [info] > git config --get commit.template [2ms]
+2023-01-31 18:02:24.415 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-31 18:02:24.425 [info] > git status -z -uall [16ms]
+2023-01-31 18:02:28.098 [info] > git push -u origin [1ms]
+2023-01-31 18:02:28.098 [info] fatal: You are not currently on a branch.
+To push the history leading to the current (detached HEAD)
+state now, use
+
+    git push origin HEAD:<name-of-remote-branch>
+2023-01-31 18:02:52.106 [info] > git log --oneline --cherry master...master@{upstream} -- [2ms]
+2023-01-31 18:02:52.227 [info] > git pull --tags origin master [116ms]
+2023-01-31 18:02:52.227 [info] From https://github.com/jklepatch/eattheblocks
+ * branch            master     -> FETCH_HEAD
+2023-01-31 18:02:52.238 [info] > git config --get commit.template [5ms]
+2023-01-31 18:02:52.239 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-01-31 18:02:52.255 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2023-01-31 18:02:52.286 [info] > git status -z -uall [43ms]
+2023-01-31 18:03:02.314 [info] > git config --get commit.template [5ms]
+2023-01-31 18:03:02.315 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-01-31 18:03:02.334 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2023-01-31 18:03:02.364 [info] > git status -z -uall [43ms]
+2023-01-31 18:03:13.302 [info] > git config --get commit.template [5ms]
+2023-01-31 18:03:13.303 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-31 18:03:13.322 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2023-01-31 18:03:13.351 [info] > git status -z -uall [44ms]
+2023-01-31 18:03:24.459 [info] > git log --oneline --cherry master...master@{upstream} -- [1ms]
+2023-01-31 18:03:24.620 [info] > git pull --tags origin master [156ms]
+2023-01-31 18:03:24.620 [info] From https://github.com/jklepatch/eattheblocks
+ * branch            master     -> FETCH_HEAD
+2023-01-31 18:03:24.630 [info] > git config --get commit.template [4ms]
+2023-01-31 18:03:24.631 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-31 18:03:24.645 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2023-01-31 18:03:24.680 [info] > git status -z -uall [45ms]
+2023-01-31 18:03:31.153 [info] > git branch [1ms]
+2023-01-31 18:03:31.208 [info] > git reset -q HEAD -- . [51ms]
+2023-01-31 18:03:31.221 [info] > git config --get commit.template [5ms]
+2023-01-31 18:03:31.222 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-01-31 18:03:31.239 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2023-01-31 18:03:31.274 [info] > git status -z -uall [48ms]
+2023-01-31 18:03:32.898 [info] > git add -A -- /home/ec2-user/eattheblocks/blockchain-masterclass/wallet-4-deployment/6-safe-management-private-keys/package-lock.json /home/ec2-user/eattheblocks/blockchain-masterclass/wallet-4-deployment/6-safe-management-private-keys/package.json [14ms]
+2023-01-31 18:03:32.909 [info] > git config --get commit.template [4ms]
+2023-01-31 18:03:32.910 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-31 18:03:32.928 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2023-01-31 18:03:32.957 [info] > git status -z -uall [43ms]
+2023-01-31 18:03:41.183 [info] > git check-ignore -v -z --stdin [4ms]
+2023-01-31 18:04:15.603 [info] > git merge master [4ms]
+2023-01-31 18:04:15.614 [info] > git config --get commit.template [5ms]
+2023-01-31 18:04:15.614 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-31 18:04:15.633 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+2023-01-31 18:04:15.662 [info] > git status -z -uall [44ms]
+2023-01-31 18:06:42.179 [info] > git -c user.useConfigOnly=true commit --quiet [432080ms]
+2023-01-31 18:06:42.179 [info] Aborting commit due to empty commit message.
+2023-01-31 18:06:52.695 [info] > git show --textconv :.git/COMMIT_EDITMSG [5ms]
+2023-01-31 18:06:52.698 [info] > git ls-files --stage -- /home/ec2-user/eattheblocks/.git/COMMIT_EDITMSG [3ms]
+2023-01-31 18:07:01.170 [info] > git -c user.useConfigOnly=true commit --quiet [9267ms]
+2023-01-31 18:07:01.181 [info] > git config --get commit.template [5ms]
+2023-01-31 18:07:01.182 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-31 18:07:01.195 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-01-31 18:07:01.230 [info] > git status -z -uall [44ms]
+2023-01-31 18:07:04.033 [info] > git log --oneline --cherry master...master@{upstream} -- [1ms]
+2023-01-31 18:07:04.208 [info] > git pull --tags origin master [170ms]
+2023-01-31 18:07:04.208 [info] From https://github.com/jklepatch/eattheblocks
+ * branch            master     -> FETCH_HEAD
+2023-01-31 18:07:04.624 [info] > git push origin master:master [411ms]
+2023-01-31 18:07:04.624 [info] remote: Permission to jklepatch/eattheblocks.git denied to marcusmayo.
+fatal: unable to access 'https://github.com/jklepatch/eattheblocks.git/': The requested URL returned error: 403
+2023-01-31 18:07:12.184 [info] > git config --get commit.template [4ms]
+2023-01-31 18:07:12.185 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-31 18:07:12.203 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2023-01-31 18:07:12.234 [info] > git status -z -uall [44ms]
+2023-01-31 18:07:12.410 [info] > git config --get commit.template [5ms]
+2023-01-31 18:07:12.411 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-01-31 18:07:12.428 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2023-01-31 18:07:12.458 [info] > git status -z -uall [43ms]
+2023-01-31 18:07:16.325 [info] > git log --oneline --cherry master...master@{upstream} -- [1ms]
+2023-01-31 18:07:16.527 [info] > git pull --tags origin master [196ms]
+2023-01-31 18:07:16.527 [info] From https://github.com/jklepatch/eattheblocks
+ * branch            master     -> FETCH_HEAD
+2023-01-31 18:07:16.984 [info] > git push origin master:master [452ms]
+2023-01-31 18:07:16.984 [info] remote: Permission to jklepatch/eattheblocks.git denied to marcusmayo.
+fatal: unable to access 'https://github.com/jklepatch/eattheblocks.git/': The requested URL returned error: 403
+2023-01-31 18:07:19.304 [info] > git remote rename origin upstream [45ms]
+2023-01-31 18:07:19.317 [info] > git config --get commit.template [6ms]
+2023-01-31 18:07:19.318 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-01-31 18:07:19.339 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2023-01-31 18:07:19.368 [info] > git status -z -uall [44ms]
+2023-01-31 18:07:19.378 [info] > git remote add origin https://github.com/marcusmayo/eattheblocks.git [2ms]
+2023-01-31 18:07:19.389 [info] > git config --get commit.template [5ms]
+2023-01-31 18:07:19.390 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-01-31 18:07:19.410 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2023-01-31 18:07:19.440 [info] > git status -z -uall [45ms]
+2023-01-31 18:07:19.786 [info] > git fetch origin master [336ms]
+2023-01-31 18:07:19.786 [info] From https://github.com/marcusmayo/eattheblocks
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> origin/master
+2023-01-31 18:07:19.796 [info] > git config --get commit.template [4ms]
+2023-01-31 18:07:19.797 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-31 18:07:19.815 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2023-01-31 18:07:19.846 [info] > git status -z -uall [45ms]
+2023-01-31 18:07:19.856 [info] > git branch --set-upstream-to origin/master master [2ms]
+2023-01-31 18:07:19.870 [info] > git config --get commit.template [8ms]
+2023-01-31 18:07:19.870 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-01-31 18:07:19.889 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2023-01-31 18:07:19.921 [info] > git status -z -uall [45ms]
+2023-01-31 18:07:20.367 [info] > git push -u origin master [434ms]
+2023-01-31 18:07:20.367 [info] To https://github.com/marcusmayo/eattheblocks.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/marcusmayo/eattheblocks.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+2023-01-31 18:07:41.390 [info] > git log --oneline --cherry master...master@{upstream} -- [28ms]
+2023-01-31 18:07:51.674 [info] > git pull --tags origin master [127ms]
+2023-01-31 18:07:51.674 [info] From https://github.com/marcusmayo/eattheblocks
+ * branch            master     -> FETCH_HEAD
+hint: You have divergent branches and need to specify how to reconcile them.
+hint: You can do so by running one of the following commands sometime before
+hint: your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+fatal: Need to specify how to reconcile divergent branches.
+2023-01-31 18:09:00.383 [info] > git log --oneline --cherry master...master@{upstream} -- [25ms]
+2023-01-31 18:09:03.003 [info] > git pull --tags origin master [127ms]
+2023-01-31 18:09:03.003 [info] From https://github.com/marcusmayo/eattheblocks
+ * branch            master     -> FETCH_HEAD
+hint: You have divergent branches and need to specify how to reconcile them.
+hint: You can do so by running one of the following commands sometime before
+hint: your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+fatal: Need to specify how to reconcile divergent branches.
+2023-01-31 18:11:55.061 [info] > git config --get commit.template [4ms]
+2023-01-31 18:11:55.062 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-31 18:11:55.080 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2023-01-31 18:11:55.109 [info] > git status -z -uall [44ms]
+2023-01-31 18:12:03.845 [info] > git log --oneline --cherry master...master@{upstream} -- [26ms]
+2023-01-31 18:12:07.383 [info] > git pull --tags origin master [119ms]
+2023-01-31 18:12:07.383 [info] From https://github.com/marcusmayo/eattheblocks
+ * branch            master     -> FETCH_HEAD
+hint: You have divergent branches and need to specify how to reconcile them.
+hint: You can do so by running one of the following commands sometime before
+hint: your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+fatal: Need to specify how to reconcile divergent branches.
+2023-01-31 18:13:04.070 [info] > git log --oneline --cherry master...master@{upstream} -- [26ms]
+2023-01-31 18:13:09.857 [info] > git pull --tags origin master [197ms]
+2023-01-31 18:13:09.857 [info] From https://github.com/marcusmayo/eattheblocks
+ * branch            master     -> FETCH_HEAD
+2023-01-31 18:13:11.013 [info] > git push origin master:master [1151ms]
+2023-01-31 18:13:11.013 [info] To https://github.com/marcusmayo/eattheblocks.git
+   8b0f9b0..71197d6  master -> master
+2023-01-31 18:13:11.024 [info] > git config --get commit.template [5ms]
+2023-01-31 18:13:11.025 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-01-31 18:13:11.045 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+2023-01-31 18:13:11.072 [info] > git status -z -uall [43ms]
+2023-01-31 18:13:12.276 [info] > git config --get commit.template [1ms]
+2023-01-31 18:13:12.282 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-31 18:13:12.299 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2023-01-31 18:13:12.330 [info] > git status -z -uall [44ms]
+2023-01-31 18:18:13.834 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-31 18:18:13.834 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 18:32:01.161 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-31 18:32:01.161 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 18:32:05.987 [info] > git rev-parse --show-toplevel [3ms]
+2023-01-31 18:32:05.987 [info] fatal: not a git repository (or any of the parent directories): .git

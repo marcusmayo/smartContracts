@@ -1,0 +1,59 @@
+2023-02-09 17:43:02.868 [info] 
+
+
+
+
+2023-02-09 17:43:02.901 [info] Extension host agent started.
+2023-02-09 17:43:02.969 [info] Migrating extensions from old default profile location file:///home/ec2-user/.vscode-server/data/User/extensions.json
+2023-02-09 17:43:02.992 [info] Migrated extensions from old default profile location to new location file:///home/ec2-user/.vscode-server/data/User/extensions.json file:///home/ec2-user/.vscode-server/extensions/extensions.json
+2023-02-09 17:43:03.208 [info] [127.0.0.1][df4b7da0][ManagementConnection] New connection established.
+2023-02-09 17:43:03.385 [info] [127.0.0.1][f9eb4520][ExtensionHostConnection] New connection established.
+2023-02-09 17:43:03.674 [info] [127.0.0.1][f9eb4520][ExtensionHostConnection] <7772> Launched Extension Host Process.
+2023-02-09 17:43:47.145 [info] [127.0.0.1][df4b7da0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-02-09 17:43:47.164 [info] [127.0.0.1][f9eb4520][ExtensionHostConnection] <7772> Extension Host Process exited with code: 0, signal: null.
+2023-02-09 17:43:47.164 [info] Cancelling previous shutdown timeout
+2023-02-09 17:43:47.165 [info] Last EH closed, waiting before shutting down
+2023-02-09 17:43:51.848 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-02-09 17:43:51.848 [info] Cancelling previous shutdown timeout
+2023-02-09 17:43:52.289 [info] [127.0.0.1][ef6183ad][ManagementConnection] New connection established.
+2023-02-09 17:43:52.457 [info] [127.0.0.1][450326c5][ExtensionHostConnection] New connection established.
+2023-02-09 17:43:52.463 [info] [127.0.0.1][450326c5][ExtensionHostConnection] <8070> Launched Extension Host Process.
+2023-02-09 17:44:03.627 [info] [127.0.0.1][ef6183ad][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-02-09 17:44:03.647 [info] [127.0.0.1][450326c5][ExtensionHostConnection] <8070> Extension Host Process exited with code: 0, signal: null.
+2023-02-09 17:44:03.647 [info] Cancelling previous shutdown timeout
+2023-02-09 17:44:03.647 [info] Last EH closed, waiting before shutting down
+2023-02-09 17:44:08.158 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-02-09 17:44:08.159 [info] Cancelling previous shutdown timeout
+2023-02-09 17:44:08.677 [info] [127.0.0.1][54c6527c][ManagementConnection] New connection established.
+2023-02-09 17:44:08.844 [info] [127.0.0.1][fc4f6035][ExtensionHostConnection] New connection established.
+2023-02-09 17:44:08.851 [info] [127.0.0.1][fc4f6035][ExtensionHostConnection] <8370> Launched Extension Host Process.
+2023-02-09 17:44:18.364 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/ec2-user)
+2023-02-09 17:49:08.161 [info] New EH opened, aborting shutdown
+2023-02-09 18:17:45.050 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+2023-02-09 18:17:45.174 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+2023-02-09 18:18:06.362 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+2023-02-09 18:18:07.624 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+2023-02-09 18:18:31.360 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+2023-02-09 18:18:32.572 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+2023-02-09 18:18:56.389 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+2023-02-09 18:18:57.570 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+2023-02-09 18:19:21.396 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+2023-02-09 18:19:22.603 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+2023-02-09 18:19:46.428 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+2023-02-09 18:19:47.662 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+2023-02-09 18:34:10.017 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+2023-02-09 18:34:31.802 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)

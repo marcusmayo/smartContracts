@@ -1,0 +1,66 @@
+2023-01-31 17:46:53.320 [info] Log level: Info
+2023-01-31 17:46:53.320 [info] Validating found git in: "git"
+2023-01-31 17:46:53.320 [info] Using git "2.38.1" from "git"
+2023-01-31 17:46:53.320 [info] > git rev-parse --show-toplevel [5ms]
+2023-01-31 17:46:53.320 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:46:53.320 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-31 17:46:53.320 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:46:53.320 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-31 17:46:53.320 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:46:53.320 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-31 17:46:53.320 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:46:53.320 [info] > git rev-parse --show-toplevel [17ms]
+2023-01-31 17:46:53.320 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:46:53.320 [info] > git rev-parse --show-toplevel [6ms]
+2023-01-31 17:46:53.321 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-01-31 17:46:53.321 [info] Open repository: /home/ec2-user/.nvm
+2023-01-31 17:46:53.321 [info] > git rev-parse --show-toplevel [6ms]
+2023-01-31 17:46:53.321 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:46:53.321 [info] > git config --get commit.template [6ms]
+2023-01-31 17:46:53.321 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-31 17:46:53.321 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:46:53.321 [info] > git rev-parse --show-toplevel [11ms]
+2023-01-31 17:46:53.321 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2023-01-31 17:46:53.321 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-01-31 17:46:53.321 [info] Open repository: /home/ec2-user/eattheblocks
+2023-01-31 17:46:53.321 [info] > git status -z -uall [27ms]
+2023-01-31 17:46:53.321 [info] > git config --get commit.template [13ms]
+2023-01-31 17:46:53.321 [info] > git rev-parse --show-toplevel [17ms]
+2023-01-31 17:46:53.321 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:46:53.321 [info] > git config --get commit.template [7ms]
+2023-01-31 17:46:53.321 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2023-01-31 17:46:53.321 [info] > git status -z -uall [20ms]
+2023-01-31 17:46:53.321 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2023-01-31 17:46:53.321 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [23ms]
+2023-01-31 17:46:53.321 [info] > git status -z -uall [128ms]
+2023-01-31 17:46:53.321 [info] > git config --get commit.template [5ms]
+2023-01-31 17:46:53.321 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-31 17:46:53.321 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+2023-01-31 17:46:53.321 [info] > git status -z -uall [114ms]
+2023-01-31 17:46:53.321 [info] > git check-ignore -v -z --stdin [6ms]
+2023-01-31 17:46:53.321 [info] > git check-ignore -v -z --stdin [3ms]
+2023-01-31 17:46:53.535 [info] > git rev-parse --show-toplevel [13ms]
+2023-01-31 17:46:53.535 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:46:53.541 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-31 17:46:53.541 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:49:13.867 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-31 17:49:13.867 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:49:13.883 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-31 17:49:13.883 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-31 17:49:14.392 [info] > git check-ignore -v -z --stdin [3ms]
+2023-01-31 17:49:22.008 [info] > git add -A -- . [135ms]
+2023-01-31 17:49:22.034 [info] > git -c user.useConfigOnly=true commit --quiet [21ms]
+2023-01-31 17:49:22.034 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2023-01-31 17:49:22.041 [info] > git config --get-all user.name [1ms]

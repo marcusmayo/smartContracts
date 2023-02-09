@@ -1,0 +1,424 @@
+[Trace 00:03:27.039] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:03:27.044] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:03:27.052] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:03:27.061] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:03:27.336] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 1
+[Debug 00:03:27.337] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 00:03:27.517] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 1
+[Debug 00:03:27.518] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:04:37.761] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:04:37.761] VsCodeClientWorkspace: deleteDocument: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:10:12.036] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:10:12.239] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:10:12.304] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:10:12.305] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:10:12.305] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:10:12.305] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 1
+[Debug 00:10:12.305] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:10:12.306] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 00:10:12.314] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 00:10:12.364] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 1
+[Trace 00:13:39.091] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:13:39.091] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:13:39.226] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:13:39.226] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 00:13:39.415] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 3
+[Debug 00:13:39.415] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 00:13:39.464] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:13:39.569] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 3
+[Trace 00:13:41.290] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:13:41.291] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 00:13:41.473] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 4
+[Debug 00:13:41.473] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 00:13:41.519] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:13:41.587] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:13:41.588] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 00:13:41.778] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 5
+[Debug 00:13:41.779] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 00:13:41.833] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 00:13:41.929] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 5
+[Trace 01:01:44.383] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:01:44.384] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:01:44.528] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 6
+[Debug 01:01:44.528] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:01:44.577] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:01:44.677] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 6
+[Trace 01:02:09.761] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:09.762] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:09.851] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:09.851] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:10.018] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:10.018] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:10.197] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:10.197] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:10.332] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:10.332] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:10.519] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:10.520] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:10.655] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:10.656] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:10.838] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:10.839] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:10.993] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:10.993] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:11.150] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:11.150] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:11.325] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:11.325] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:11.481] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:11.481] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:11.679] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:11.679] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:02:11.868] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 19
+[Debug 01:02:11.868] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:02:11.924] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:12.017] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 19
+[Trace 01:02:12.054] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:12.054] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:02:12.244] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 20
+[Debug 01:02:12.244] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:12.392] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 20
+[Debug 01:02:12.393] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:12.931] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:12.931] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:02:13.102] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 21
+[Debug 01:02:13.102] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:02:13.153] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:13.221] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:13.221] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:02:13.392] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 22
+[Debug 01:02:13.392] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:02:13.446] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:13.565] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:13.566] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:13.735] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:13.736] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:02:13.920] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 24
+[Debug 01:02:13.921] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:02:13.978] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:14.076] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 24
+[Trace 01:02:15.460] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:15.460] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:02:15.635] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 25
+[Debug 01:02:15.635] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:02:15.688] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:15.735] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:15.735] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:15.912] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:15.912] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:16.060] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:16.061] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:16.250] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:16.250] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:02:16.449] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 29
+[Debug 01:02:16.450] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:02:16.485] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:02:16.579] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 29
+[Trace 01:05:05.137] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:05.138] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:05:05.328] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 30
+[Debug 01:05:05.328] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:05:05.374] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:05.475] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 30
+[Trace 01:05:20.241] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:20.241] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:20.242] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:20.243] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:20.295] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:20.295] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:20.429] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:20.430] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:20.580] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:20.581] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:20.732] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:20.732] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:20.877] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:20.878] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:21.015] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:21.015] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:21.167] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:21.167] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:21.316] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:21.316] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:21.459] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:21.459] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:21.625] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:21.625] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:21.758] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:21.758] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:05:21.953] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 43
+[Debug 01:05:21.954] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:05:22.002] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:22.100] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 43
+[Trace 01:05:22.143] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:22.143] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:05:22.348] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 44
+[Debug 01:05:22.349] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:22.495] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 44
+[Debug 01:05:22.496] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:22.894] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:22.894] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:05:23.076] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 45
+[Debug 01:05:23.076] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:05:23.127] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:23.156] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:23.156] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:05:23.339] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 46
+[Debug 01:05:23.339] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:05:23.392] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:23.459] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:23.459] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:23.629] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:23.629] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:23.832] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:23.832] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:05:24.005] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 49
+[Debug 01:05:24.005] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:05:24.051] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:24.115] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:24.115] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:24.251] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:24.251] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:24.429] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:24.430] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:05:24.614] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 52
+[Debug 01:05:24.614] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:24.633] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:24.633] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:05:24.828] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 53
+[Debug 01:05:24.828] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:05:24.875] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:05:24.975] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 53
+[Trace 01:07:34.765] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:07:34.765] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:07:34.928] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 54
+[Debug 01:07:34.928] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:07:34.980] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:07:35.080] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 54
+[Trace 01:08:04.469] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:04.470] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:08:04.631] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 55
+[Debug 01:08:04.631] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:08:04.684] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:05.219] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 55
+[Trace 01:08:27.613] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:27.614] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:27.727] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:27.727] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:27.877] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:27.877] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:28.010] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:28.011] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:28.160] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:28.160] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:28.312] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:28.312] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:28.449] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:28.449] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:28.600] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:28.600] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:28.973] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:28.973] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:28.974] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:28.976] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:29.038] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:29.038] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:29.183] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:29.184] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:29.351] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:29.351] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:08:29.531] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 68
+[Debug 01:08:29.531] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:08:29.579] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:29.679] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 68
+[Trace 01:08:29.781] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:29.781] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:08:29.970] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 69
+[Debug 01:08:29.970] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:30.120] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 69
+[Debug 01:08:30.120] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:30.492] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:30.493] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:08:30.697] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 70
+[Debug 01:08:30.697] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:08:30.730] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:30.823] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:30.824] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:08:31.009] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 71
+[Debug 01:08:31.010] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:08:31.054] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:31.125] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:31.125] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:31.307] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:31.307] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:31.492] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:31.493] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:08:31.662] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 74
+[Debug 01:08:31.662] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:31.715] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:31.715] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:31.853] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:31.853] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:31.989] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:31.989] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:08:32.183] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 77
+[Debug 01:08:32.184] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:08:32.233] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:32.341] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 77
+[Trace 01:08:33.054] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:33.055] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:08:33.243] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 78
+[Debug 01:08:33.243] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:08:33.296] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:08:33.679] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 78
+[Trace 01:10:09.241] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:09.242] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:09.430] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 79
+[Debug 01:10:09.430] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:09.472] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:09.576] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 79
+[Trace 01:10:36.568] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:36.568] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:36.746] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 80
+[Debug 01:10:36.746] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:36.799] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:36.901] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 80
+[Trace 01:10:51.702] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:51.702] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:51.867] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:51.868] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:51.998] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:51.999] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:52.137] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:52.138] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:52.282] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:52.282] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:52.424] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:52.424] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:52.573] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:52.573] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:52.716] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:52.717] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:52.866] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:52.866] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:52.998] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:52.998] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:53.154] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:53.154] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:53.299] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:53.300] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:53.450] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:53.450] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:53.639] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 93
+[Debug 01:10:53.639] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:53.692] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:53.798] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 93
+[Trace 01:10:53.871] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:53.872] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:54.063] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 94
+[Debug 01:10:54.063] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:54.213] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 94
+[Debug 01:10:54.213] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:54.533] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:54.533] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:54.729] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 95
+[Debug 01:10:54.730] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:54.780] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:54.856] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:54.856] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:55.043] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 96
+[Debug 01:10:55.043] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:55.103] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:55.152] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:55.152] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:55.320] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:55.321] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:55.476] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:55.476] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:55.667] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 99
+[Debug 01:10:55.668] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:55.720] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:55.791] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:55.792] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:55.921] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:55.922] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:56.106] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:56.106] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:56.312] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 102
+[Debug 01:10:56.313] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:56.340] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:56.340] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:56.532] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 103
+[Debug 01:10:56.532] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:10:56.583] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:10:56.680] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 103
+[Trace 01:12:10.409] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:10.409] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:10.577] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:10.577] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:10.742] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:10.742] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:10.902] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:10.902] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:11.061] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:11.061] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:11.216] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:11.216] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:11.427] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:11.427] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:11.527] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:11.527] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:11.647] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:11.647] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:12:11.844] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 112
+[Debug 01:12:11.845] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:12:11.899] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:12.012] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 112
+[Trace 01:12:12.024] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:12.025] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:12.187] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:12.188] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:12.373] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:12.373] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:12.568] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:12.569] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:12:12.757] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 116
+[Debug 01:12:12.757] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:12:12.805] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:12.902] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 116
+[Trace 01:12:12.950] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:12.950] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:12:13.141] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 117
+[Debug 01:12:13.141] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:13.291] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 117
+[Debug 01:12:13.292] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:13.680] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:13.681] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:12:13.838] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 118
+[Debug 01:12:13.838] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:12:13.889] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:13.959] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:13.960] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:12:14.152] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 119
+[Debug 01:12:14.152] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:12:14.198] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:14.233] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:14.233] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:14.426] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:14.427] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:14.568] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:14.569] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:14.757] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:14.758] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:14.924] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:14.924] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:15.092] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:15.093] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:12:15.290] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 125
+[Debug 01:12:15.290] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:15.315] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:15.315] Server: connection.languages.diagnostics.on: file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:12:15.516] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 126
+[Debug 01:12:15.517] TableOfContentsProvider: create - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Debug 01:12:15.569] LinkProvider: compute - file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md
+[Trace 01:12:15.668] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md 126

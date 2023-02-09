@@ -1,0 +1,56 @@
+2023-01-29 20:48:42.528 [info] Log level: Info
+2023-01-29 20:48:42.528 [info] Validating found git in: "git"
+2023-01-29 20:48:42.528 [info] Using git "2.38.1" from "git"
+2023-01-29 20:48:42.528 [info] > git rev-parse --show-toplevel [6ms]
+2023-01-29 20:48:42.528 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-29 20:48:42.528 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-29 20:48:42.528 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-29 20:48:42.528 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-29 20:48:42.528 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-29 20:48:42.528 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-29 20:48:42.528 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-29 20:48:42.528 [info] > git rev-parse --show-toplevel [9ms]
+2023-01-29 20:48:42.528 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-01-29 20:48:42.528 [info] Open repository: /home/ec2-user/.nvm
+2023-01-29 20:48:42.528 [info] > git rev-parse --show-toplevel [8ms]
+2023-01-29 20:48:42.528 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-29 20:48:42.528 [info] > git config --get commit.template [6ms]
+2023-01-29 20:48:42.528 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-29 20:48:42.528 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-29 20:48:42.528 [info] > git rev-parse --show-toplevel [12ms]
+2023-01-29 20:48:42.528 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-01-29 20:48:42.528 [info] Open repository: /home/ec2-user/eattheblocks
+2023-01-29 20:48:42.528 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+2023-01-29 20:48:42.528 [info] > git config --get commit.template [1ms]
+2023-01-29 20:48:42.528 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2023-01-29 20:48:42.528 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2023-01-29 20:48:42.528 [info] > git status -z -uall [339ms]
+2023-01-29 20:48:42.528 [info] > git config --get commit.template [2ms]
+2023-01-29 20:48:42.528 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-29 20:48:42.528 [info] > git status -z -uall [15ms]
+2023-01-29 20:48:42.528 [info] > git check-ignore -v -z --stdin [8ms]
+2023-01-29 20:48:42.528 [info] > git check-ignore -v -z --stdin [5ms]
+2023-01-29 20:48:50.907 [info] > git status -z -uall [8929ms]
+2023-01-29 20:48:50.926 [info] > git config --get commit.template [7ms]
+2023-01-29 20:48:50.926 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-29 20:48:50.945 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2023-01-29 20:48:51.045 [info] > git status -z -uall [114ms]
+2023-01-29 20:49:43.761 [info] > git check-ignore -v -z --stdin [7ms]
+2023-01-29 20:49:48.993 [info] > git check-ignore -v -z --stdin [5ms]
+2023-01-29 20:49:58.143 [info] > git check-ignore -v -z --stdin [3ms]
+2023-01-29 20:50:00.309 [info] > git check-ignore -v -z --stdin [3ms]
+2023-01-29 20:50:02.624 [info] > git show --textconv :advanced-solidity/3-assembly/native-conditional.sol [5ms]
+2023-01-29 20:50:02.628 [info] > git ls-files --stage -- /home/ec2-user/eattheblocks/advanced-solidity/3-assembly/native-conditional.sol [5ms]
+2023-01-29 20:50:02.634 [info] > git cat-file -s 1834cf4706850b5b7d503fc5d511011fafabf1bf [1ms]
+2023-01-29 20:50:11.064 [info] > git show --textconv :advanced-solidity/3-assembly/native-loop.sol [5ms]
+2023-01-29 20:50:11.066 [info] > git ls-files --stage -- /home/ec2-user/eattheblocks/advanced-solidity/3-assembly/native-loop.sol [3ms]
+2023-01-29 20:50:11.072 [info] > git cat-file -s b57bd8d8beb5a5a9bd274f08c1d4e78add44ec1e [1ms]
+2023-01-29 20:50:17.941 [info] > git check-ignore -v -z --stdin [3ms]
+2023-01-29 20:50:20.324 [info] > git check-ignore -v -z --stdin [3ms]
+2023-01-29 20:50:21.510 [info] > git show --textconv :advanced-solidity/gas-optimization-solidity-optimizer/contracts/Migrations.sol [5ms]
+2023-01-29 20:50:21.512 [info] > git ls-files --stage -- /home/ec2-user/eattheblocks/advanced-solidity/gas-optimization-solidity-optimizer/contracts/Migrations.sol [3ms]
+2023-01-29 20:50:21.517 [info] > git cat-file -s f4661c6608833c1682ddd17ea46bbf8c8e7cfbed [2ms]
+2023-01-29 20:50:24.837 [info] > git show --textconv :advanced-solidity/gas-optimization-solidity-optimizer/contracts/MyContract.sol [5ms]
+2023-01-29 20:50:24.839 [info] > git ls-files --stage -- /home/ec2-user/eattheblocks/advanced-solidity/gas-optimization-solidity-optimizer/contracts/MyContract.sol [3ms]
+2023-01-29 20:50:24.844 [info] > git cat-file -s 06940f633aaae66d20af37f9beae95bf3ca362b5 [2ms]
+2023-01-29 20:50:39.480 [info] > git check-ignore -v -z --stdin [4ms]

@@ -1,0 +1,80 @@
+2023-02-02 00:00:19.915 [info] Log level: Info
+2023-02-02 00:00:19.915 [info] Validating found git in: "git"
+2023-02-02 00:00:19.915 [info] Using git "2.38.1" from "git"
+2023-02-02 00:00:19.915 [info] > git rev-parse --show-toplevel [6ms]
+2023-02-02 00:00:19.915 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-02 00:00:19.915 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-02 00:00:19.915 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-02 00:00:19.915 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-02 00:00:19.915 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-02 00:00:19.915 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-02 00:00:19.915 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-02 00:00:19.915 [info] > git rev-parse --show-toplevel [3ms]
+2023-02-02 00:00:19.915 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-02 00:00:19.915 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-02 00:00:19.915 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-02-02 00:00:19.915 [info] Open repository: /home/ec2-user/.nvm
+2023-02-02 00:00:19.915 [info] > git rev-parse --show-toplevel [12ms]
+2023-02-02 00:00:19.915 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-02 00:00:19.915 [info] > git config --get commit.template [34ms]
+2023-02-02 00:00:19.915 [info] > git rev-parse --show-toplevel [24ms]
+2023-02-02 00:00:19.915 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-02 00:00:19.915 [info] > git status -z -uall [22ms]
+2023-02-02 00:00:19.915 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+2023-02-02 00:00:19.915 [info] > git rev-parse --show-toplevel [36ms]
+2023-02-02 00:00:19.915 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2023-02-02 00:00:19.915 [info] Open repository: /home/ec2-user/eattheblocks
+2023-02-02 00:00:19.915 [info] > git rev-parse --show-toplevel [7ms]
+2023-02-02 00:00:19.915 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-02 00:00:19.915 [info] > git config --get commit.template [24ms]
+2023-02-02 00:00:19.915 [info] > git config --get commit.template [8ms]
+2023-02-02 00:00:19.915 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2023-02-02 00:00:19.915 [info] > git status -z -uall [17ms]
+2023-02-02 00:00:19.915 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-02-02 00:00:19.915 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2023-02-02 00:00:19.915 [info] > git status -z -uall [71ms]
+2023-02-02 00:00:21.565 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-02 00:00:21.565 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-02 00:00:21.787 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-02 00:00:21.787 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-02 00:00:21.809 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-02 00:00:21.809 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-02 00:00:21.815 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-02 00:00:21.815 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-02 00:00:22.189 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-02 00:00:22.189 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-02 00:00:23.646 [info] > git check-ignore -v -z --stdin [6ms]
+2023-02-02 00:00:23.648 [info] > git check-ignore -v -z --stdin [3ms]
+2023-02-02 00:03:26.527 [info] > git rev-parse --show-toplevel [167ms]
+2023-02-02 00:03:26.545 [info] > git rev-parse --git-dir --git-common-dir [11ms]
+2023-02-02 00:03:26.559 [info] Open repository: /home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm
+2023-02-02 00:03:26.576 [info] > git config --get commit.template [9ms]
+2023-02-02 00:03:26.593 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2023-02-02 00:03:26.615 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2023-02-02 00:03:26.933 [info] > git show --textconv :examples/EVM_Smart_Contracts.md [7ms]
+2023-02-02 00:03:26.935 [info] > git ls-files --stage -- /home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md [3ms]
+2023-02-02 00:03:26.943 [info] > git cat-file -s b7a6ecad34077a1f60cff5eff5e33a9e2856649b [2ms]
+2023-02-02 00:03:27.466 [info] > git check-ignore -v -z --stdin [16ms]
+2023-02-02 00:03:27.467 [info] > git check-ignore -v -z --stdin [11ms]
+2023-02-02 00:03:27.467 [info] > git check-ignore -v -z --stdin [5ms]
+2023-02-02 00:03:31.208 [info] > git status -z -uall [4609ms]
+2023-02-02 00:04:37.931 [info] > git rev-parse --show-toplevel [3ms]
+2023-02-02 00:04:37.938 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-02-02 00:04:37.943 [info] Open repository: /home/ec2-user/golang/src/github.com/hyperledger/fabric-samples
+2023-02-02 00:04:37.953 [info] > git config --get commit.template [2ms]
+2023-02-02 00:04:37.980 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+2023-02-02 00:04:38.360 [info] > git status -z -uall [400ms]
+2023-02-02 00:04:38.410 [info] > git ls-files --stage -- /home/ec2-user/golang/src/github.com/hyperledger/fabric-samples/first-network/docker-compose-cli.yaml [1ms]
+2023-02-02 00:04:38.427 [info] > git show --textconv :first-network/docker-compose-cli.yaml [39ms]
+2023-02-02 00:04:38.428 [info] > git cat-file -s c7f74710bdf196042638e18c46dcc53570341207 [2ms]
+2023-02-02 00:04:38.771 [info] > git check-ignore -v -z --stdin [7ms]
+2023-02-02 00:04:38.772 [info] > git check-ignore -v -z --stdin [3ms]
+2023-02-02 00:05:46.176 [info] > git check-ignore -v -z --stdin [1ms]
+2023-02-02 00:06:12.503 [info] > git check-ignore -v -z --stdin [6ms]
+2023-02-02 00:06:12.504 [info] > git check-ignore -v -z --stdin [2ms]
+2023-02-02 00:10:10.864 [info] > git check-ignore -v -z --stdin [5ms]
+2023-02-02 00:10:12.494 [info] > git show --textconv :examples/EVM_Smart_Contracts.md [5ms]
+2023-02-02 00:10:12.495 [info] > git ls-files --stage -- /home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md [2ms]
+2023-02-02 00:10:12.502 [info] > git cat-file -s b7a6ecad34077a1f60cff5eff5e33a9e2856649b [2ms]
+2023-02-02 00:52:18.077 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-02 00:52:18.078 [info] fatal: not a git repository (or any of the parent directories): .git

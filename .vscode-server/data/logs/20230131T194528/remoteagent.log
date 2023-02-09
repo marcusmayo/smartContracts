@@ -1,0 +1,48 @@
+2023-01-31 19:45:29.021 [info] Extension host agent started.
+2023-01-31 19:45:29.294 [error] [127.0.0.1][089d3db6][ManagementConnection] Unknown reconnection token (never seen).
+2023-02-01 01:15:49.106 [info] [127.0.0.1][585adf70][ManagementConnection] New connection established.
+2023-02-01 01:15:49.351 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] New connection established.
+2023-02-01 01:15:49.370 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] <24028> Launched Extension Host Process.
+2023-02-01 01:15:50.153 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/ec2-user)
+2023-02-01 01:22:32.056 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 01:22:32.228 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 01:31:30.531 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 01:31:34.746 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 01:31:37.937 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 01:55:14.668 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 01:55:25.826 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 03:59:22.116 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 03:59:22.285 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 04:17:24.868 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 04:17:25.088 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 04:35:59.335 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 04:35:59.526 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 05:02:08.020 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 05:02:31.491 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 05:34:46.286 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 05:34:46.980 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 06:57:13.712 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 06:57:19.560 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 07:13:09.534 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 07:13:11.524 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 09:14:05.346 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 09:14:05.673 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 11:14:57.650 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 11:14:57.826 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 13:02:23.583 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 13:02:23.748 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 13:19:00.986 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 13:19:28.731 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 13:39:45.524 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 13:39:45.690 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 13:59:34.382 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 13:59:34.553 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 16:00:33.035 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 16:00:33.243 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 16:23:45.872 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 16:23:46.078 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 16:33:12.870 [info] [127.0.0.1][585adf70][ManagementConnection] The client has reconnected.
+2023-02-01 16:33:13.050 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] The client has reconnected.
+2023-02-01 19:50:20.006 [info] [127.0.0.1][719e19f5][ExtensionHostConnection] <24028> Extension Host Process exited with code: 0, signal: null.
+2023-02-01 19:50:20.006 [info] Last EH closed, waiting before shutting down
+2023-02-01 19:55:20.008 [info] Last EH closed, shutting down

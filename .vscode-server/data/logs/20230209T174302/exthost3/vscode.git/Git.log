@@ -1,0 +1,90 @@
+2023-02-09 17:44:13.382 [info] Log level: Info
+2023-02-09 17:44:13.382 [info] Validating found git in: "git"
+2023-02-09 17:44:13.382 [info] Using git "2.39.1" from "git"
+2023-02-09 17:44:13.382 [info] > git rev-parse --show-toplevel [5ms]
+2023-02-09 17:44:13.382 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 17:44:13.382 [info] > git rev-parse --show-toplevel [14ms]
+2023-02-09 17:44:13.382 [info] > git rev-parse --git-dir --git-common-dir [131ms]
+2023-02-09 17:44:13.382 [info] Open repository: /home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm
+2023-02-09 17:44:13.382 [info] > git config --get commit.template [2ms]
+2023-02-09 17:44:13.382 [info] > git rev-parse --show-toplevel [10ms]
+2023-02-09 17:44:13.382 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 17:44:13.382 [info] > git rev-parse --show-toplevel [6ms]
+2023-02-09 17:44:13.382 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 17:44:13.382 [info] > git rev-parse --show-toplevel [3ms]
+2023-02-09 17:44:13.382 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 17:44:13.382 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-09 17:44:13.382 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 17:44:13.382 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+2023-02-09 17:44:13.382 [info] > git rev-parse --show-toplevel [24ms]
+2023-02-09 17:44:13.382 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2023-02-09 17:44:13.382 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-02-09 17:44:13.382 [info] Open repository: /home/ec2-user/.nvm
+2023-02-09 17:44:13.382 [info] > git rev-parse --show-toplevel [15ms]
+2023-02-09 17:44:13.382 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 17:44:13.382 [info] > git config --get commit.template [15ms]
+2023-02-09 17:44:13.382 [info] > git rev-parse --show-toplevel [21ms]
+2023-02-09 17:44:13.382 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 17:44:13.382 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [29ms]
+2023-02-09 17:44:13.382 [info] > git rev-parse --show-toplevel [21ms]
+2023-02-09 17:44:13.382 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 17:44:13.382 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2023-02-09 17:44:13.382 [info] > git rev-parse --show-toplevel [10ms]
+2023-02-09 17:44:13.382 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-02-09 17:44:13.382 [info] Open repository: /home/ec2-user/eattheblocks
+2023-02-09 17:44:13.382 [info] > git rev-parse --show-toplevel [9ms]
+2023-02-09 17:44:13.382 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 17:44:13.382 [info] > git config --get commit.template [14ms]
+2023-02-09 17:44:13.382 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [50ms]
+2023-02-09 17:44:13.382 [info] > git rev-parse --show-toplevel [20ms]
+2023-02-09 17:44:13.382 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 17:44:13.382 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [141ms]
+2023-02-09 17:44:13.382 [info] > git status -z -uall [365ms]
+2023-02-09 17:44:13.382 [info] > git config --get commit.template [6ms]
+2023-02-09 17:44:13.382 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-02-09 17:44:13.382 [info] > git status -z -uall [49ms]
+2023-02-09 17:44:13.382 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [37ms]
+2023-02-09 17:44:13.382 [info] > git status -z -uall [590ms]
+2023-02-09 17:44:13.382 [info] > git config --get commit.template [5ms]
+2023-02-09 17:44:13.382 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [2ms]
+2023-02-09 17:44:13.382 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-02-09 17:44:13.382 [info] > git status -z -uall [17ms]
+2023-02-09 17:44:13.382 [info] > git show --textconv :examples/EVM_Smart_Contracts.md [8ms]
+2023-02-09 17:44:13.382 [info] > git ls-files --stage -- /home/ec2-user/golang/src/github.com/hyperledger/fabric-chaincode-evm/examples/EVM_Smart_Contracts.md [3ms]
+2023-02-09 17:44:13.382 [info] > git cat-file -s b7a6ecad34077a1f60cff5eff5e33a9e2856649b [2ms]
+2023-02-09 17:44:13.478 [info] > git check-ignore -v -z --stdin [15ms]
+2023-02-09 17:44:13.479 [info] > git check-ignore -v -z --stdin [9ms]
+2023-02-09 17:44:13.480 [info] > git check-ignore -v -z --stdin [5ms]
+2023-02-09 17:44:18.925 [info] > git status -z -uall [6426ms]
+2023-02-09 17:44:18.940 [info] > git config --get commit.template [5ms]
+2023-02-09 17:44:18.941 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-02-09 17:44:18.957 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-09 17:44:19.202 [info] > git status -z -uall [257ms]
+2023-02-09 17:44:43.057 [info] > git rev-parse --show-toplevel [83ms]
+2023-02-09 17:44:43.057 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 17:56:35.112 [info] > git check-ignore -v -z --stdin [2ms]
+2023-02-09 17:56:38.271 [info] > git rev-parse --show-toplevel [4ms]
+2023-02-09 17:56:38.271 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 17:56:38.781 [info] > git check-ignore -v -z --stdin [2ms]
+2023-02-09 17:57:56.982 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-09 17:57:56.983 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 17:58:09.008 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-09 17:58:09.008 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 17:58:10.989 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-09 17:58:10.990 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 18:09:28.590 [info] > git rev-parse --show-toplevel [129ms]
+2023-02-09 18:09:28.590 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 18:09:28.596 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-09 18:09:28.597 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 18:11:07.063 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-09 18:11:07.064 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 18:11:12.411 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-09 18:11:12.411 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 18:11:14.527 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-09 18:11:14.527 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 18:11:19.945 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-09 18:11:19.945 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 18:21:30.356 [info] > git rev-parse --show-toplevel [5ms]
+2023-02-09 18:21:30.356 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-09 18:21:57.787 [info] > git rev-parse --show-toplevel [3ms]
+2023-02-09 18:21:57.787 [info] fatal: not a git repository (or any of the parent directories): .git
