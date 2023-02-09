@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "debug.allowBreakpointsEverywhere": true,
+    "remote.SSH.connectTimeout": 150,
+    "git.enableSmartCommit": true
+}
